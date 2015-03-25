@@ -2,7 +2,7 @@
 
 For full product documentation visit [www.xvision.no](http://www.xvision.no).
 
-## Projects
+# Projects
 
 This is the first screen that you will see after logging in. The Projects screen will list all project(s) belonging to your company account. The top part of the application screen will display Project Cards for the four (4) most recent projects that have been worked on as shown here:
 
@@ -22,7 +22,7 @@ Below the project cards section you will see a list of all other projects or pro
 
 For more information on these commands see the Project Actions section.
 
-###Open Project
+##Open Project
 
 To open a project simply click on the Open Project button shown below.
 <div style="text-align:left" markdown="1">
@@ -31,7 +31,7 @@ To open a project simply click on the Open Project button shown below.
 
 This will then load the selected project and display it on screen for further editing/viewing.
 
-###Add Project
+##Add Project
 
 Select the Add project button from the top right area of the Projects screen to create a new project. 
 
@@ -40,7 +40,7 @@ Select the Add project button from the top right area of the Projects screen to 
 
 This will display the new project screen where you specify a project name and optional Start and End date for the project. The Start- and End-date fields will present you with a Month-calendar picker for quick and easy date selection. Then click Save project to create it or cancel to exit without making any changed.
 
-###Add Folder
+##Add Folder
 
 Select the Add folder button from the top right area of the Projects screen to create a new project folder. 
 
@@ -49,7 +49,7 @@ Select the Add folder button from the top right area of the Projects screen to c
 
 This will display a dialog promting you for the name of the new folder that you wish to create. Simply enter the new folder name in the text field. Then click "Save" to create it or cancel to exit without making any changed.
 
-###Asset selector
+#Asset selector
 
 To populate your field layout you need to choose your structures from the Asset library.
 
