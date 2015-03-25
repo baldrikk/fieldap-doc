@@ -1,0 +1,5 @@
+site_name: Field Activity Planner v1.0
+pages:
+- [index.md, Home]
+- [about.md, About]
+- [security.md, Security]
