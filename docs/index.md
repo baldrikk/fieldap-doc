@@ -64,7 +64,7 @@ Select if you want an asset from either the Structure or Vessel category by clic
 
 To add an asset to your field layout design in the Stage Area, simply click it and hold down the left mouse button while you drag it out of the asset list selector and onto the stage area on the right and release the mouse button.
 
-###Rotate / Delete Asset
+##Rotate / Delete Asset
 You can easily reposition and rotate your assets by clicking on them to. You will notice a dotted ring around the asset with 2 symbols (Rotate button and delete button).
 To reposition the asset just click again on the active asset and hold the left mousebutton down while you reposition it and let let go. To Rotate it just activate the dottet ring by clicking on the asset and press the rotate button and hold the left mousebutton down while you rotate the asset to your wanted angle.
 ![Alt text](image/rotate.jpg)
