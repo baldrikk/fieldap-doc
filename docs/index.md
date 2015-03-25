@@ -64,10 +64,35 @@ Select if you want an asset from either the Structure or Vessel category by clic
 
 To add an asset to your field layout design in the Stage Area, simply click it and hold down the left mouse button while you drag it out of the asset list selector and onto the stage area on the right and release the mouse button.
 
+###Rotate / Delete Asset
+You can easily reposition and rotate your assets by clicking on them to. You will notice a dotted ring around the asset with 2 symbols (Rotate button and delete button).
+To reposition the asset just click again on the active asset and hold the left mousebutton down while you reposition it and let let go. To Rotate it just activate the dottet ring by clicking on the asset and press the rotate button and hold the left mousebutton down while you rotate the asset to your wanted angle.
+![Alt text](image/rotate.jpg)
+
 ###Connect Assets
 FieldAP comes with a set of the most normal generic assets that can be used for a simple field layout. Most of these assets can be connected to each other as would be expected for a field layout. At present all assets have a fixed number and fixed location of connection points. 
 The number of asset connection points depends on the asset you have selected. They are typically located just off the asset outline itself as show in the illustration below:
 ![Alt text](image/manifold.jpg)
 
-To make a connection between two (2) assets or structures if you will you need to click once on the starting connection point once the mouse cursor changes to a cross selector. Then move the mouse over to the asset connection point that you want to connect to and click once again when the cross selector cursor is shown. The assets will then be connected together
+To make a connection between two (2) assets or structures if you will you need to click once on the starting connection point once the mouse cursor changes to a cross selector. Then move the mouse over to the asset connection point that you want to connect to and click once again when the cross selector cursor is shown. The assets will then be connected together.
 ![Alt text](image/connection.jpg)
+Note that you can have as many connections between structures that you want.
+![Alt text](image/multiple_connections.jpg)
+
+###Edit Connections
+If you click on the connection line itself between two assets, you can add curvature edit points, which allows you to modify the layout of the connection line or connector if you will. You will see a small "+" symbol next to the mouse pointer that indicates that by a left mouse click a curve edit point will be added.
+![Alt text](image/curves.jpg)
+To remove an edit point from the connector press and hold the "Shift" key and select the edit point on the connector. To remove an entire connection, press the "Backspace" key.
+
+###Connection Color
+You can also choose the color and thickness on your connections by choosing them in the menu below the stage grid.
+(image when the design is ready)
+
+###Stage Area
+
+The stage area is your drawing canvas where you do your field layout design work as shown in the illustration below:
+![Alt text](image/stage_area.JPG)
+You can zoom in and out on the stage area by pressing the zoom buttons in the top right of the stage area window.
+Additionally you can also utilize the mouse wheel to zoom in and out.
+
+You can pan the stage area by clicking on the stage area background and holding down the left mouse button and move the mouse in the desired direction
