@@ -96,3 +96,21 @@ You can zoom in and out on the stage area by pressing the zoom buttons in the to
 Additionally you can also utilize the mouse wheel to zoom in and out.
 
 You can pan the stage area by clicking on the stage area background and holding down the left mouse button and move the mouse in the desired direction
+
+###Activities
+The activities window area will show all activities entered for the project as shown below. 
+![Alt text](image/activities.JPG)
+
+To add a new activity just press the "+" button. This will allow you to define a new activity that will take place including the activity duration and a descriptive name. 
+
+You can also click the activity itself in the activity (GANNT) window and drag it to where you want the activity to start/end. The activity bar itself allows you seamlessly extend it by pressing the end of the bar and drag it out to the chosen length
+
+You can choose the resolution of the timeline by alternating between the "Hour", "Day" and "Week" buttons.
+![Alt text](image/time_resolution.JPG)
+
+From the animation panel as shown below you can play the activity plan from start to finish:
+![Alt text](image/play_pause.JPG)
+
+###Actions
+To add a new action to your activity just press "Add action" button, which will bring in the "Define Activity" panel on the right hand side of your screen.
+![Alt text](image/actions.JPG)
