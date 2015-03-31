@@ -2,7 +2,12 @@
 
 For full product documentation visit [www.xvision.no](http://www.xvision.no).
 
-# Projects
+#The Dashboard
+Dashboard
+To see the dashboard simply click on the dashboard icon situated in the top left corner of your web browser:
+![Screenshot](image/dashboard.jpg)
+
+### Projects
 
 This is the first screen that you will see after logging in. The Projects screen will list all project(s) belonging to your company account. The top part of the application screen will display Project Cards for the four (4) most recent projects that have been worked on as shown here:
 
@@ -22,7 +27,7 @@ Below the project cards section you will see a list of all other projects or pro
 
 For more information on these commands see the Project Actions section.
 
-##Open Project
+###Open Project
 
 To open a project simply click on the Open Project button shown below.
 <div style="text-align:left" markdown="1">
@@ -31,7 +36,7 @@ To open a project simply click on the Open Project button shown below.
 
 This will then load the selected project and display it on screen for further editing/viewing.
 
-##Add Project
+###Add Project
 
 Select the Add project button from the top right area of the Projects screen to create a new project. 
 
@@ -42,7 +47,7 @@ This will display the new project screen where you specify a project name and op
 ![Screenshot](image/add_project_card.jpg)
 You also have the ability to share your project with your colleagues.
 
-##Add Folder
+###Add Folder
 
 Select the Add folder button from the top right area of the Projects screen to create a new project folder. This is for making it easier to organize your various projects, you can now arrange individual projects into different folders. At the moment the folder structure is limited to one (1) level only. 
 
@@ -51,9 +56,7 @@ Select the Add folder button from the top right area of the Projects screen to c
 
 This will display a dialog promting you for the name of the new folder that you wish to create. Simply enter the new folder name in the text field. Then click "Save" to create it or cancel to exit without making any changed.
 
-###Dashboard
-To see the dashboard simply click on the dashboard icon situated in the top left corner of your web browser:
-![Screenshot](image/dashboard.jpg)
+
 
 This will display the FieldApp dashboard and list all your available projects as shown below:
 ![Screenshot](image/dashboard_overview.jpg)
@@ -72,7 +75,10 @@ To share a project with another user you can invite the user to view it in the s
 The first step when creating a new project in FieldApp is typically to design a new field layout where you will plan the relevant field activities that will take place. To do this you can quickly and easily design the wanted field layout by using the "FieldApp Layout Designer" tools. Assets will typically be design elements that depict subsea installation structures or other operation equipment such as "Manifold", "Template", "FPSO" etc. 
 ![Screenshot](image/asset_library.jpg)
 
-#Asset selector
+
+#Layout planner
+
+###Asset selector
 
 To populate your field layout you need to choose your structures from the Asset library.
 
@@ -87,7 +93,7 @@ Select if you want an asset from either the Structure or Vessel category by clic
 
 To add an asset to your field layout design in the Stage Area, simply click it and hold down the left mouse button while you drag it out of the asset list selector and onto the stage area on the right and release the mouse button.
 
-##Rotate / Delete Asset
+###Rotate / Delete Asset
 You can easily reposition and rotate your assets by clicking on them to. You will notice a dotted ring around the asset with 2 symbols (Rotate button and delete button).
 To reposition the asset just click again on the active asset and hold the left mousebutton down while you reposition it and let let go. To Rotate it just activate the dottet ring by clicking on the asset and press the rotate button and hold the left mousebutton down while you rotate the asset to your wanted angle.
 ![Alt text](image/rotate.jpg)
@@ -119,6 +125,7 @@ You can zoom in and out on the stage area by pressing the zoom buttons in the to
 Additionally you can also utilize the mouse wheel to zoom in and out.
 
 You can pan the stage area by clicking on the stage area background and holding down the left mouse button and move the mouse in the desired direction
+#Planning Mode
 
 ###Activities
 The activities window area will show all activities entered for the project as shown below. 
